@@ -1,9 +1,4 @@
 
-Brief Explanation of the Code
-This program processes a list of numbers entered by the user to:
-
-Separate Even and Odd Numbers: It divides the numbers into two lists—one for even numbers and one for odd numbers.
-Calculate Sums: It calculates the sum of even and odd numbers separately.
 Steps Explained
 Input and Conversion:
 
