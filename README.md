@@ -9,8 +9,12 @@ Mapping:
 A map operation processes each number (though here, it's a simple identity operation).
 Filtering:
 
-Even Numbers: Filters out numbers divisible by 2 into a separate list.
-Odd Numbers: Filters out numbers that are not divisible by 2 into another list.
+Even Numbers: 
+
+Filters out numbers divisible by 2 into a separate list.
+Odd Numbers:
+
+Filters out numbers that are not divisible by 2 into another list.
 Summation:
 
 Uses the reduce function to calculate:
