@@ -12,15 +12,18 @@ Filtering:
 Even Numbers: 
 
 Filters out numbers divisible by 2 into a separate list.
+
 Odd Numbers:
 
 Filters out numbers that are not divisible by 2 into another list.
+
 Summation:
 
 Uses the reduce function to calculate:
 
 Sum of Even Numbers
 Sum of Odd Numbers
+
 Output:
 
 Prints:
